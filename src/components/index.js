@@ -1,0 +1,1 @@
+export {default as CardPhone} from './CardPhone/CardPhone.jsx';
